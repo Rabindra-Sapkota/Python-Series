@@ -19,20 +19,16 @@
 import keyword
 print(keyword.kwlist)
 
-# In Example Below, left side of equal sign denotes name of variable and right denotes the value stored for it
-channel_name = 'Tech Tutorial'              # String Value
+# Left side is variable name and right side is value for it. Different data type used in the example
+channel_name_string = 'Tech Tutorial'
 series_name = 'Python Tutorial Series'
 
-course_length = 10                          # Integer Value (Numeric)
-average_dedication = 2.3                    # Float Value
+course_length_int = 10
+average_dedication_float = 2.3
 
-other_courses = ['AWS', 'MySQL', 'Git', 'MongoDB']      # List Value
-
-social_medias = ('Facebook', 'Instagram', 'Twitter', 'LinkedIn')    # Tuple Value
-
-channel_info = {'name': 'Tech Tutorial', 'category': 'Education', 'courses': ['AWS', 'Python'], 'rating': 9.7,
-                'established_date': 2021}               # Dictionary Value
-
-play_list = {'AWS', 'Python', 'MySQL', 'Git'}           # Set Value
-
-is_active = True                                        # Boolean Value
+other_courses_list = ['AWS', 'MySQL', 'Git', 'MongoDB']
+social_medias_tuple = ('Facebook', 'Instagram', 'Twitter', 'LinkedIn')
+channel_info_dict = {'name': 'Tech Tutorial', 'category': 'Education', 'courses': ['AWS', 'Python'], 'rating': 9.7,
+                     'established_date': 2021}
+play_list_set = {'AWS', 'Python', 'MySQL', 'Git'}
+is_active_bol = True
