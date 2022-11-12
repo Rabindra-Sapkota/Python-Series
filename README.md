@@ -1,6 +1,7 @@
 # Tech-Tutorial Python Series
 * [Playlist Video Link](https://youtube.com/playlist?list=PLx-vddLyKbWl01mYlVjm9PeHuYgAacO5I)
 * [Youtube Channel Link](https://www.youtube.com/c/TechTutorialsLearnbydoing)
+* [LinkedIn Profile](https://www.linkedin.com/in/rabindra-sapkota-7ba49a157/)
 
 ## Introduction
 * Easier to write and maintain code
