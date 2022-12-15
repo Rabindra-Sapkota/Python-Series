@@ -1,7 +1,8 @@
+# Collection Data Type
+# Only hashable datatype can be used. Example: numeric, string, tuple but tuple's data should be sting or numeric only
 # Items are enclosed inside {} bracket and separated by comma
 # Stores unique values only
 # Used to perform mathematical set operations like union, intersection, difference, subset
-# Only hashable datatype can be used. Example: numeric, string, tuple but tuple's data should be sting or numeric only
 # Set are not sequenced i.e position is invalid
 # Thus, index related functions such as index, slicing, insert are invalid
 # Generally used for lookups
